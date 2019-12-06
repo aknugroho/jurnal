@@ -1,20 +1,20 @@
-title: A.K Nugroho Portfolio Websites
+title: A.K Nugroho
 description: > # this means to ignore newlines until "baseurl:"
-  This is my portfolio websites. You can find all my work in this site.
+  Welcome to A.K Nugroho portfolio websites.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://andi.my.id" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: '/'#if your site has a twitter account, enter it here
+site-twitter: "/" #if your site has a twitter account, enter it here
 
 # Author Settings
 author: A.K Nugroho # add your name
 author-img: andi.jpg # add your photo
-about-author: I am a researcher. Always hungry to keep learning. # add description
-social-twitter: '/'# add your Twitter handle
-social-facebook: '/'# add your Facebook handle
+about-author: I am a writer. Always hungry to keep learning. # add description
+social-twitter: "/" # add your Twitter handle
+social-facebook: "/" # add your Facebook handle
 social-github: aknugroho # add your Github handle
-social-linkedin: '/'# add your Linkedin handle
-social-email: '/'# add your Email address
+social-linkedin: "/" # add your Linkedin handle
+social-email: "/" # add your Email address
 
 # Disqus
 discus-identifier: aknugroho # add your discus identifier
